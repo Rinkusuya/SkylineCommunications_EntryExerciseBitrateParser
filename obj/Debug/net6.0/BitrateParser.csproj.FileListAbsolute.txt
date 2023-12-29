@@ -1,0 +1,17 @@
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\bin\Debug\net6.0\BitrateParser.exe
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\bin\Debug\net6.0\BitrateParser.deps.json
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\bin\Debug\net6.0\BitrateParser.runtimeconfig.json
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\bin\Debug\net6.0\BitrateParser.dll
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\bin\Debug\net6.0\ref\BitrateParser.dll
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\bin\Debug\net6.0\BitrateParser.pdb
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\obj\Debug\net6.0\BitrateParser.csproj.AssemblyReference.cache
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\obj\Debug\net6.0\BitrateParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\obj\Debug\net6.0\BitrateParser.AssemblyInfoInputs.cache
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\obj\Debug\net6.0\BitrateParser.AssemblyInfo.cs
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\obj\Debug\net6.0\BitrateParser.csproj.CoreCompileInputs.cache
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\obj\Debug\net6.0\BitrateParser.dll
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\obj\Debug\net6.0\ref\BitrateParser.dll
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\obj\Debug\net6.0\BitrateParser.pdb
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\obj\Debug\net6.0\BitrateParser.genruntimeconfig.cache
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Work\SkylineCommunications\JobEntry\BitrateParser\obj\Debug\net6.0\BitrateParser.csproj.CopyComplete
